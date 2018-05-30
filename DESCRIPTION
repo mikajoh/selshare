@@ -1,0 +1,16 @@
+Package: selshare
+Version: 0.0.0.9000
+Title: Research Compendium for the Selective Sharing Project
+Description: Research Compendium for the Selective Sharing Project by Mikael Poul Johannesson and Erik Knudsen. The Package includes functions used for the analysis, as well as the code to reproduce the figures and tables in the article.
+Authors@R: person("Mikael Poul", "Johannesson", email = "mikajoh@gmail.com", role = c("aut", "cre"))
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+RoxygenNote: 6.0.1
+Imports: broom,
+    lmtest,
+    rlang,
+    sandwich,
+    tibble,
+    tidyselect
