@@ -7,6 +7,10 @@ library(here)
 library(haven)
 library(tidyverse)
 
+if (!require(selshare)) {
+  devtools::install_github("mikajoh/selshare")
+}
+
 ## Load data ---------------------------------------------------------
 
 ## Prepared data from the Norwegian Citizen panel on the respondents
@@ -62,9 +66,9 @@ w8_01 <-
     rsp_edu = case_when(
       r8B3_1 %in% 1:2 ~ "Lower or intermediate",
       r8B3_1 == 3     ~ "Higher"),
-    rsp_pol_int = case_when(
+    rsp_polint = case_when(
       r8k1 %in% 1:5 ~ 6 - as.numeric(r8k1)),
-    rsp_pol_party = case_when(
+    rsp_party = case_when(
       r8k204 == 1 ~ "Christian Democratic Party",
       r8k204 == 2 ~ "Conservative Party",
       r8k204 == 3 ~ "Progress Party",
@@ -122,7 +126,7 @@ w8_02 <-
 ## The raw experiment data comes in the form of one variable for each
 ## cell of the conjoint table. The `r8pad3_dimrantext_\\d` variables
 ## are the left side treatment headers as shown to respondents;
-## `selectivesharing::treat_names()` returns a df which matches these
+## `selectivesharing::treat_names_w8()` returns a df which matches these
 ## headers with the var names we want.
 w8_03 <-
   w8_02 %>%
@@ -132,7 +136,7 @@ w8_03 <-
     matches("r8pad3_dimrantext_"),
     na.rm = TRUE
   ) %>%
-  left_join(treat_names(), by = "treat_lab") %>%
+  left_join(treat_names_w8(), by = "treat_lab") %>%
   filter(!is.na(treat)) %>%
   mutate(
     row_treat = gsub("^.*(\\d)$", "\\1", row_treat),
@@ -141,7 +145,7 @@ w8_03 <-
 
 ## The `r8pad3_dimranlabel(\\d)_(\\d)` variables shows which value
 ## label were shown in which \\1 column and \\2 row of the conjoint
-## table. `selectivesharing::val_labs()` returns a df which matches
+## table. `selectivesharing::val_labs_w8()` returns a df which matches
 ## these value labels (and prev retrieved treatment names) to new
 ## value labels in english. Also note that `exp_` denotes
 ## experiment-level information and `prs_` denotes decision-level
@@ -156,7 +160,7 @@ w8_04 <-
     prs_n = as.numeric(prs_n)
   ) %>%
   filter(row == row_treat) %>%
-  left_join(val_labs(), by = c("treat", "val_no")) %>%
+  left_join(val_labs_w8(), by = c("treat", "val_no")) %>%
   select(-matches("row"), -treat_lab, -val_no) %>%
   spread(treat, val) %>%
   mutate(

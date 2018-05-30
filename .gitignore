@@ -4,8 +4,8 @@
 vignettes/*_cache/
 R/.old/
 .old/
-analysis/raw*
-!analysis/raw/documentation/*.pdf
+analysis/raw/*.sav
+!analysis/raw/documentation/*
 *~
 *#
 !.gitignore

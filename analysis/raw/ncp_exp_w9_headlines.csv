@@ -1,0 +1,757 @@
+hl_id,hl_headline,hl_party_nor,hl_valance,hl_opinion,hl_direction,hl_valance_direction,hl_direction_wording,hl_party
+1,Rødt-politiker foreslår å øke toppskatten,Rødt,neutral,lower_taxes,disagree,foreslår,øke,rodt
+2,Sv-politiker foreslår å øke toppskatten,Sv,neutral,lower_taxes,disagree,foreslår,øke,sv
+3,Ap-politiker foreslår å øke toppskatten,Ap,neutral,lower_taxes,disagree,foreslår,øke,ap
+4,Sp-politiker foreslår å øke toppskatten,Sp,neutral,lower_taxes,disagree,foreslår,øke,sp
+5,Mdg-politiker foreslår å øke toppskatten,Mdg,neutral,lower_taxes,disagree,foreslår,øke,mdg
+6,Venstre-politiker foreslår å øke toppskatten,Venstre,neutral,lower_taxes,disagree,foreslår,øke,v
+7,Krf-politiker foreslår å øke toppskatten,Krf,neutral,lower_taxes,disagree,foreslår,øke,krf
+8,Høyre-politiker foreslår å øke toppskatten,Høyre,neutral,lower_taxes,disagree,foreslår,øke,h
+9,Frp-politiker foreslår å øke toppskatten,Frp,neutral,lower_taxes,disagree,foreslår,øke,frp
+10,Rødt-politiker får kjeft for forslag om å øke toppskatten,Rødt,negative,lower_taxes,disagree,får kjeft for forslag om,øke,rodt
+11,Sv-politiker får kjeft for forslag om å øke toppskatten,Sv,negative,lower_taxes,disagree,får kjeft for forslag om,øke,sv
+12,Ap-politiker får kjeft for forslag om å øke toppskatten,Ap,negative,lower_taxes,disagree,får kjeft for forslag om,øke,ap
+13,Sp-politiker får kjeft for forslag om å øke toppskatten,Sp,negative,lower_taxes,disagree,får kjeft for forslag om,øke,sp
+14,Mdg-politiker får kjeft for forslag om å øke toppskatten,Mdg,negative,lower_taxes,disagree,får kjeft for forslag om,øke,mdg
+15,Venstre-politiker får kjeft for forslag om å øke toppskatten,Venstre,negative,lower_taxes,disagree,får kjeft for forslag om,øke,v
+16,Krf-politiker får kjeft for forslag om å øke toppskatten,Krf,negative,lower_taxes,disagree,får kjeft for forslag om,øke,krf
+17,Høyre-politiker får kjeft for forslag om å øke toppskatten,Høyre,negative,lower_taxes,disagree,får kjeft for forslag om,øke,h
+18,Frp-politiker får kjeft for forslag om å øke toppskatten,Frp,negative,lower_taxes,disagree,får kjeft for forslag om,øke,frp
+19,Rødt-politiker får skryt for forslag om å øke toppskatten,Rødt,positive,lower_taxes,disagree,får skryt for forslag om,øke,rodt
+20,Sv-politiker får skryt for forslag om å øke toppskatten,Sv,positive,lower_taxes,disagree,får skryt for forslag om,øke,sv
+21,Ap-politiker får skryt for forslag om å øke toppskatten,Ap,positive,lower_taxes,disagree,får skryt for forslag om,øke,ap
+22,Sp-politiker får skryt for forslag om å øke toppskatten,Sp,positive,lower_taxes,disagree,får skryt for forslag om,øke,sp
+23,Mdg-politiker får skryt for forslag om å øke toppskatten,Mdg,positive,lower_taxes,disagree,får skryt for forslag om,øke,mdg
+24,Venstre-politiker får skryt for forslag om å øke toppskatten,Venstre,positive,lower_taxes,disagree,får skryt for forslag om,øke,v
+25,Krf-politiker får skryt for forslag om å øke toppskatten,Krf,positive,lower_taxes,disagree,får skryt for forslag om,øke,krf
+26,Høyre-politiker får skryt for forslag om å øke toppskatten,Høyre,positive,lower_taxes,disagree,får skryt for forslag om,øke,h
+27,Frp-politiker får skryt for forslag om å øke toppskatten,Frp,positive,lower_taxes,disagree,får skryt for forslag om,øke,frp
+28,Rødt-politiker foreslår å senke toppskatten,Rødt,neutral,lower_taxes,agree,foreslår,senke,rodt
+29,Sv-politiker foreslår å senke toppskatten,Sv,neutral,lower_taxes,agree,foreslår,senke,sv
+30,Ap-politiker foreslår å senke toppskatten,Ap,neutral,lower_taxes,agree,foreslår,senke,ap
+31,Sp-politiker foreslår å senke toppskatten,Sp,neutral,lower_taxes,agree,foreslår,senke,sp
+32,Mdg-politiker foreslår å senke toppskatten,Mdg,neutral,lower_taxes,agree,foreslår,senke,mdg
+33,Venstre-politiker foreslår å senke toppskatten,Venstre,neutral,lower_taxes,agree,foreslår,senke,v
+34,Krf-politiker foreslår å senke toppskatten,Krf,neutral,lower_taxes,agree,foreslår,senke,krf
+35,Høyre-politiker foreslår å senke toppskatten,Høyre,neutral,lower_taxes,agree,foreslår,senke,h
+36,Frp-politiker foreslår å senke toppskatten,Frp,neutral,lower_taxes,agree,foreslår,senke,frp
+37,Rødt-politiker får kjeft for forslag om å senke toppskatten,Rødt,negative,lower_taxes,agree,får kjeft for forslag om,senke,rodt
+38,Sv-politiker får kjeft for forslag om å senke toppskatten,Sv,negative,lower_taxes,agree,får kjeft for forslag om,senke,sv
+39,Ap-politiker får kjeft for forslag om å senke toppskatten,Ap,negative,lower_taxes,agree,får kjeft for forslag om,senke,ap
+40,Sp-politiker får kjeft for forslag om å senke toppskatten,Sp,negative,lower_taxes,agree,får kjeft for forslag om,senke,sp
+41,Mdg-politiker får kjeft for forslag om å senke toppskatten,Mdg,negative,lower_taxes,agree,får kjeft for forslag om,senke,mdg
+42,Venstre-politiker får kjeft for forslag om å senke toppskatten,Venstre,negative,lower_taxes,agree,får kjeft for forslag om,senke,v
+43,Krf-politiker får kjeft for forslag om å senke toppskatten,Krf,negative,lower_taxes,agree,får kjeft for forslag om,senke,krf
+44,Høyre-politiker får kjeft for forslag om å senke toppskatten,Høyre,negative,lower_taxes,agree,får kjeft for forslag om,senke,h
+45,Frp-politiker får kjeft for forslag om å senke toppskatten,Frp,negative,lower_taxes,agree,får kjeft for forslag om,senke,frp
+46,Rødt-politiker får skryt for forslag om å senke toppskatten,Rødt,positive,lower_taxes,agree,får skryt for forslag om,senke,rodt
+47,Sv-politiker får skryt for forslag om å senke toppskatten,Sv,positive,lower_taxes,agree,får skryt for forslag om,senke,sv
+48,Ap-politiker får skryt for forslag om å senke toppskatten,Ap,positive,lower_taxes,agree,får skryt for forslag om,senke,ap
+49,Sp-politiker får skryt for forslag om å senke toppskatten,Sp,positive,lower_taxes,agree,får skryt for forslag om,senke,sp
+50,Mdg-politiker får skryt for forslag om å senke toppskatten,Mdg,positive,lower_taxes,agree,får skryt for forslag om,senke,mdg
+51,Venstre-politiker får skryt for forslag om å senke toppskatten,Venstre,positive,lower_taxes,agree,får skryt for forslag om,senke,v
+52,Krf-politiker får skryt for forslag om å senke toppskatten,Krf,positive,lower_taxes,agree,får skryt for forslag om,senke,krf
+53,Høyre-politiker får skryt for forslag om å senke toppskatten,Høyre,positive,lower_taxes,agree,får skryt for forslag om,senke,h
+54,Frp-politiker får skryt for forslag om å senke toppskatten,Frp,positive,lower_taxes,agree,får skryt for forslag om,senke,frp
+55,Rødt-topp med nytt forslag om skatteøkning for eldre,Rødt,neutral,lower_taxes,disagree,,økning,rodt
+56,Refser Rødt-topp med nytt forslag om skatteøkning for eldre,Rødt,negative,lower_taxes,disagree,Refser ,økning,rodt
+57,Roser Rødt-topp med nytt forslag om skatteøkning for eldre,Rødt,positive,lower_taxes,disagree,Roser ,økning,rodt
+58,Sv-topp med nytt forslag om skatteøkning for eldre,Sv,neutral,lower_taxes,disagree,,økning,sv
+59,Refser Sv-topp med nytt forslag om skatteøkning for eldre,Sv,negative,lower_taxes,disagree,Refser ,økning,sv
+60,Roser Sv-topp med nytt forslag om skatteøkning for eldre,Sv,positive,lower_taxes,disagree,Roser ,økning,sv
+61,Ap-topp med nytt forslag om skatteøkning for eldre,Ap,neutral,lower_taxes,disagree,,økning,ap
+62,Refser Ap-topp med nytt forslag om skatteøkning for eldre,Ap,negative,lower_taxes,disagree,Refser ,økning,ap
+63,Roser Ap-topp med nytt forslag om skatteøkning for eldre,Ap,positive,lower_taxes,disagree,Roser ,økning,ap
+64,Sp-topp med nytt forslag om skatteøkning for eldre,Sp,neutral,lower_taxes,disagree,,økning,sp
+65,Refser Sp-topp med nytt forslag om skatteøkning for eldre,Sp,negative,lower_taxes,disagree,Refser ,økning,sp
+66,Roser Sp-topp med nytt forslag om skatteøkning for eldre,Sp,positive,lower_taxes,disagree,Roser ,økning,sp
+67,Mdg-topp med nytt forslag om skatteøkning for eldre,Mdg,neutral,lower_taxes,disagree,,økning,mdg
+68,Refser Mdg-topp med nytt forslag om skatteøkning for eldre,Mdg,negative,lower_taxes,disagree,Refser ,økning,mdg
+69,Roser Mdg-topp med nytt forslag om skatteøkning for eldre,Mdg,positive,lower_taxes,disagree,Roser ,økning,mdg
+70,Venstre-topp med nytt forslag om skatteøkning for eldre,Venstre,neutral,lower_taxes,disagree,,økning,v
+71,Refser Venstre-topp med nytt forslag om skatteøkning for eldre,Venstre,negative,lower_taxes,disagree,Refser ,økning,v
+72,Roser Venstre-topp med nytt forslag om skatteøkning for eldre,Venstre,positive,lower_taxes,disagree,Roser ,økning,v
+73,Krf-topp med nytt forslag om skatteøkning for eldre,Krf,neutral,lower_taxes,disagree,,økning,krf
+74,Refser Krf-topp med nytt forslag om skatteøkning for eldre,Krf,negative,lower_taxes,disagree,Refser ,økning,krf
+75,Roser Krf-topp med nytt forslag om skatteøkning for eldre,Krf,positive,lower_taxes,disagree,Roser ,økning,krf
+76,Høyre-topp med nytt forslag om skatteøkning for eldre,Høyre,neutral,lower_taxes,disagree,,økning,h
+77,Refser Høyre-topp med nytt forslag om skatteøkning for eldre,Høyre,negative,lower_taxes,disagree,Refser ,økning,h
+78,Roser Høyre-topp med nytt forslag om skatteøkning for eldre,Høyre,positive,lower_taxes,disagree,Roser ,økning,h
+79,Frp-topp med nytt forslag om skatteøkning for eldre,Frp,neutral,lower_taxes,disagree,,økning,frp
+80,Refser Frp-topp med nytt forslag om skatteøkning for eldre,Frp,negative,lower_taxes,disagree,Refser ,økning,frp
+81,Roser Frp-topp med nytt forslag om skatteøkning for eldre,Frp,positive,lower_taxes,disagree,Roser ,økning,frp
+82,Rødt-topp med nytt forslag om skattekutt for eldre,Rødt,neutral,lower_taxes,agree,,kutt,rodt
+83,Refser Rødt-topp med nytt forslag om skattekutt for eldre,Rødt,negative,lower_taxes,agree,Refser ,kutt,rodt
+84,Roser Rødt-topp med nytt forslag om skattekutt for eldre,Rødt,positive,lower_taxes,agree,Roser ,kutt,rodt
+85,Sv-topp med nytt forslag om skattekutt for eldre,Sv,neutral,lower_taxes,agree,,kutt,sv
+86,Refser Sv-topp med nytt forslag om skattekutt for eldre,Sv,negative,lower_taxes,agree,Refser ,kutt,sv
+87,Roser Sv-topp med nytt forslag om skattekutt for eldre,Sv,positive,lower_taxes,agree,Roser ,kutt,sv
+88,Ap-topp med nytt forslag om skattekutt for eldre,Ap,neutral,lower_taxes,agree,,kutt,ap
+89,Refser Ap-topp med nytt forslag om skattekutt for eldre,Ap,negative,lower_taxes,agree,Refser ,kutt,ap
+90,Roser Ap-topp med nytt forslag om skattekutt for eldre,Ap,positive,lower_taxes,agree,Roser ,kutt,ap
+91,Sp-topp med nytt forslag om skattekutt for eldre,Sp,neutral,lower_taxes,agree,,kutt,sp
+92,Refser Sp-topp med nytt forslag om skattekutt for eldre,Sp,negative,lower_taxes,agree,Refser ,kutt,sp
+93,Roser Sp-topp med nytt forslag om skattekutt for eldre,Sp,positive,lower_taxes,agree,Roser ,kutt,sp
+94,Mdg-topp med nytt forslag om skattekutt for eldre,Mdg,neutral,lower_taxes,agree,,kutt,mdg
+95,Refser Mdg-topp med nytt forslag om skattekutt for eldre,Mdg,negative,lower_taxes,agree,Refser ,kutt,mdg
+96,Roser Mdg-topp med nytt forslag om skattekutt for eldre,Mdg,positive,lower_taxes,agree,Roser ,kutt,mdg
+97,Venstre-topp med nytt forslag om skattekutt for eldre,Venstre,neutral,lower_taxes,agree,,kutt,v
+98,Refser Venstre-topp med nytt forslag om skattekutt for eldre,Venstre,negative,lower_taxes,agree,Refser ,kutt,v
+99,Roser Venstre-topp med nytt forslag om skattekutt for eldre,Venstre,positive,lower_taxes,agree,Roser ,kutt,v
+100,Krf-topp med nytt forslag om skattekutt for eldre,Krf,neutral,lower_taxes,agree,,kutt,krf
+101,Refser Krf-topp med nytt forslag om skattekutt for eldre,Krf,negative,lower_taxes,agree,Refser ,kutt,krf
+102,Roser Krf-topp med nytt forslag om skattekutt for eldre,Krf,positive,lower_taxes,agree,Roser ,kutt,krf
+103,Høyre-topp med nytt forslag om skattekutt for eldre,Høyre,neutral,lower_taxes,agree,,kutt,h
+104,Refser Høyre-topp med nytt forslag om skattekutt for eldre,Høyre,negative,lower_taxes,agree,Refser ,kutt,h
+105,Roser Høyre-topp med nytt forslag om skattekutt for eldre,Høyre,positive,lower_taxes,agree,Roser ,kutt,h
+106,Frp-topp med nytt forslag om skattekutt for eldre,Frp,neutral,lower_taxes,agree,,kutt,frp
+107,Refser Frp-topp med nytt forslag om skattekutt for eldre,Frp,negative,lower_taxes,agree,Refser ,kutt,frp
+108,Roser Frp-topp med nytt forslag om skattekutt for eldre,Frp,positive,lower_taxes,agree,Roser ,kutt,frp
+109,Rødt-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Rødt,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,rodt
+110,Sv-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Sv,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,sv
+111,Ap-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Ap,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,ap
+112,Sp-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Sp,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,sp
+113,Mdg-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Mdg,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,mdg
+114,Venstre-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Venstre,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,v
+115,Krf-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Krf,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,krf
+116,Høyre-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Høyre,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,h
+117,Frp-politiker med Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Frp,neutral,rel_div_good,disagree,med Facebook-innlegg,trenger ikke,frp
+118,Rødt-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Rødt,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,rodt
+119,Sv-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Sv,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,sv
+120,Ap-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Ap,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,ap
+121,Sp-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Sp,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,sp
+122,Mdg-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Mdg,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,mdg
+123,Venstre-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Venstre,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,v
+124,Krf-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Krf,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,krf
+125,Høyre-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Høyre,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,h
+126,Frp-politiker fordømmes etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Frp,negative,rel_div_good,disagree,fordømmes etter Facebook-innlegg,trenger ikke,frp
+127,Rødt-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Rødt,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,rodt
+128,Sv-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Sv,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,sv
+129,Ap-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Ap,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,ap
+130,Sp-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Sp,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,sp
+131,Mdg-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Mdg,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,mdg
+132,Venstre-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Venstre,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,v
+133,Krf-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Krf,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,krf
+134,Høyre-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Høyre,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,h
+135,Frp-politiker lovprises etter Facebook-innlegg: «vi trenger ikke flere muslimer i norske skoler»,Frp,positive,rel_div_good,disagree,lovprises etter Facebook-innlegg,trenger ikke,frp
+136,Rødt-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Rødt,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,rodt
+137,Sv-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Sv,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,sv
+138,Ap-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Ap,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,ap
+139,Sp-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Sp,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,sp
+140,Mdg-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Mdg,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,mdg
+141,Venstre-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Venstre,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,v
+142,Krf-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Krf,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,krf
+143,Høyre-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Høyre,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,h
+144,Frp-politiker med Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Frp,neutral,rel_div_good,agree,med Facebook-innlegg,trenger,frp
+145,Rødt-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Rødt,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,rodt
+146,Sv-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Sv,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,sv
+147,Ap-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Ap,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,ap
+148,Sp-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Sp,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,sp
+149,Mdg-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Mdg,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,mdg
+150,Venstre-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Venstre,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,v
+151,Krf-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Krf,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,krf
+152,Høyre-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Høyre,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,h
+153,Frp-politiker fordømmes etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Frp,negative,rel_div_good,agree,fordømmes etter Facebook-innlegg,trenger,frp
+154,Rødt-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Rødt,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,rodt
+155,Sv-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Sv,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,sv
+156,Ap-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Ap,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,ap
+157,Sp-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Sp,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,sp
+158,Mdg-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Mdg,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,mdg
+159,Venstre-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Venstre,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,v
+160,Krf-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Krf,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,krf
+161,Høyre-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Høyre,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,h
+162,Frp-politiker lovprises etter Facebook-innlegg: «vi trenger flere muslimer i norske skoler»,Frp,positive,rel_div_good,agree,lovprises etter Facebook-innlegg,trenger,frp
+163,Lokal Rødt-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Rødt,neutral,rel_div_good,disagree,–,hindre at vi tar imot,rodt
+164,Lokal Sv-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Sv,neutral,rel_div_good,disagree,–,hindre at vi tar imot,sv
+165,Lokal Ap-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Ap,neutral,rel_div_good,disagree,–,hindre at vi tar imot,ap
+166,Lokal Sp-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Sp,neutral,rel_div_good,disagree,–,hindre at vi tar imot,sp
+167,Lokal Mdg-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Mdg,neutral,rel_div_good,disagree,–,hindre at vi tar imot,mdg
+168,Lokal Venstre-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Venstre,neutral,rel_div_good,disagree,–,hindre at vi tar imot,v
+169,Lokal Krf-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Krf,neutral,rel_div_good,disagree,–,hindre at vi tar imot,krf
+170,Lokal Høyre-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Høyre,neutral,rel_div_good,disagree,–,hindre at vi tar imot,h
+171,Lokal Frp-politiker – vil hindre at vi tar imot fem tusen nye flyktninger,Frp,neutral,rel_div_good,disagree,–,hindre at vi tar imot,frp
+172,Lokal Rødt-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Rødt,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,rodt
+173,Lokal Sv-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Sv,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,sv
+174,Lokal Ap-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Ap,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,ap
+175,Lokal Sp-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Sp,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,sp
+176,Lokal Mdg-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Mdg,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,mdg
+177,Lokal Venstre-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Venstre,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,v
+178,Lokal Krf-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Krf,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,krf
+179,Lokal Høyre-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Høyre,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,h
+180,Lokal Frp-politiker skjelles ut – vil hindre at vi tar imot fem tusen nye flyktninger,Frp,negative,rel_div_good,disagree,skjelles ut –,hindre at vi tar imot,frp
+181,Lokal Rødt-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Rødt,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,rodt
+182,Lokal Sv-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Sv,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,sv
+183,Lokal Ap-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Ap,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,ap
+184,Lokal Sp-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Sp,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,sp
+185,Lokal Mdg-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Mdg,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,mdg
+186,Lokal Venstre-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Venstre,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,v
+187,Lokal Krf-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Krf,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,krf
+188,Lokal Høyre-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Høyre,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,h
+189,Lokal Frp-politiker hylles – vil hindre at vi tar imot fem tusen nye flyktninger,Frp,positive,rel_div_good,disagree,hylles –,hindre at vi tar imot,frp
+190,Lokal Rødt-politiker – vil ta imot fem tusen nye flyktninger,Rødt,neutral,rel_div_good,agree,–,ta imot,rodt
+191,Lokal Sv-politiker – vil ta imot fem tusen nye flyktninger,Sv,neutral,rel_div_good,agree,–,ta imot,sv
+192,Lokal Ap-politiker – vil ta imot fem tusen nye flyktninger,Ap,neutral,rel_div_good,agree,–,ta imot,ap
+193,Lokal Sp-politiker – vil ta imot fem tusen nye flyktninger,Sp,neutral,rel_div_good,agree,–,ta imot,sp
+194,Lokal Mdg-politiker – vil ta imot fem tusen nye flyktninger,Mdg,neutral,rel_div_good,agree,–,ta imot,mdg
+195,Lokal Venstre-politiker – vil ta imot fem tusen nye flyktninger,Venstre,neutral,rel_div_good,agree,–,ta imot,v
+196,Lokal Krf-politiker – vil ta imot fem tusen nye flyktninger,Krf,neutral,rel_div_good,agree,–,ta imot,krf
+197,Lokal Høyre-politiker – vil ta imot fem tusen nye flyktninger,Høyre,neutral,rel_div_good,agree,–,ta imot,h
+198,Lokal Frp-politiker – vil ta imot fem tusen nye flyktninger,Frp,neutral,rel_div_good,agree,–,ta imot,frp
+199,Lokal Rødt-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Rødt,negative,rel_div_good,agree,skjelles ut –,ta imot,rodt
+200,Lokal Sv-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Sv,negative,rel_div_good,agree,skjelles ut –,ta imot,sv
+201,Lokal Ap-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Ap,negative,rel_div_good,agree,skjelles ut –,ta imot,ap
+202,Lokal Sp-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Sp,negative,rel_div_good,agree,skjelles ut –,ta imot,sp
+203,Lokal Mdg-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Mdg,negative,rel_div_good,agree,skjelles ut –,ta imot,mdg
+204,Lokal Venstre-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Venstre,negative,rel_div_good,agree,skjelles ut –,ta imot,v
+205,Lokal Krf-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Krf,negative,rel_div_good,agree,skjelles ut –,ta imot,krf
+206,Lokal Høyre-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Høyre,negative,rel_div_good,agree,skjelles ut –,ta imot,h
+207,Lokal Frp-politiker skjelles ut – vil ta imot fem tusen nye flyktninger,Frp,negative,rel_div_good,agree,skjelles ut –,ta imot,frp
+208,Lokal Rødt-politiker hylles – vil ta imot fem tusen nye flyktninger,Rødt,positive,rel_div_good,agree,hylles –,ta imot,rodt
+209,Lokal Sv-politiker hylles – vil ta imot fem tusen nye flyktninger,Sv,positive,rel_div_good,agree,hylles –,ta imot,sv
+210,Lokal Ap-politiker hylles – vil ta imot fem tusen nye flyktninger,Ap,positive,rel_div_good,agree,hylles –,ta imot,ap
+211,Lokal Sp-politiker hylles – vil ta imot fem tusen nye flyktninger,Sp,positive,rel_div_good,agree,hylles –,ta imot,sp
+212,Lokal Mdg-politiker hylles – vil ta imot fem tusen nye flyktninger,Mdg,positive,rel_div_good,agree,hylles –,ta imot,mdg
+213,Lokal Venstre-politiker hylles – vil ta imot fem tusen nye flyktninger,Venstre,positive,rel_div_good,agree,hylles –,ta imot,v
+214,Lokal Krf-politiker hylles – vil ta imot fem tusen nye flyktninger,Krf,positive,rel_div_good,agree,hylles –,ta imot,krf
+215,Lokal Høyre-politiker hylles – vil ta imot fem tusen nye flyktninger,Høyre,positive,rel_div_good,agree,hylles –,ta imot,h
+216,Lokal Frp-politiker hylles – vil ta imot fem tusen nye flyktninger,Frp,positive,rel_div_good,agree,hylles –,ta imot,frp
+217,Politiker fra Rødt vil øke formueskatten,Rødt,neutral,lower_taxes,disagree,,øke,rodt
+218,Politiker fra Sv vil øke formueskatten,Sv,neutral,lower_taxes,disagree,,øke,sv
+219,Politiker fra Ap vil øke formueskatten,Ap,neutral,lower_taxes,disagree,,øke,ap
+220,Politiker fra Sp vil øke formueskatten,Sp,neutral,lower_taxes,disagree,,øke,sp
+221,Politiker fra Mdg vil øke formueskatten,Mdg,neutral,lower_taxes,disagree,,øke,mdg
+222,Politiker fra Venstre vil øke formueskatten,Venstre,neutral,lower_taxes,disagree,,øke,v
+223,Politiker fra Krf vil øke formueskatten,Krf,neutral,lower_taxes,disagree,,øke,krf
+224,Politiker fra Høyre vil øke formueskatten,Høyre,neutral,lower_taxes,disagree,,øke,h
+225,Politiker fra Frp vil øke formueskatten,Frp,neutral,lower_taxes,disagree,,øke,frp
+226,Politiker fra Rødt vil senke formueskatten,Rødt,neutral,lower_taxes,agree,,senke,rodt
+227,Politiker fra Sv vil senke formueskatten,Sv,neutral,lower_taxes,agree,,senke,sv
+228,Politiker fra Ap vil senke formueskatten,Ap,neutral,lower_taxes,agree,,senke,ap
+229,Politiker fra Sp vil senke formueskatten,Sp,neutral,lower_taxes,agree,,senke,sp
+230,Politiker fra Mdg vil senke formueskatten,Mdg,neutral,lower_taxes,agree,,senke,mdg
+231,Politiker fra Venstre vil senke formueskatten,Venstre,neutral,lower_taxes,agree,,senke,v
+232,Politiker fra Krf vil senke formueskatten,Krf,neutral,lower_taxes,agree,,senke,krf
+233,Politiker fra Høyre vil senke formueskatten,Høyre,neutral,lower_taxes,agree,,senke,h
+234,Politiker fra Frp vil senke formueskatten,Frp,neutral,lower_taxes,agree,,senke,frp
+235,"Politiker fra Rødt vil øke formueskatten, mottar sterk kritikk",Rødt,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,rodt
+236,"Politiker fra Sv vil øke formueskatten, mottar sterk kritikk",Sv,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,sv
+237,"Politiker fra Ap vil øke formueskatten, mottar sterk kritikk",Ap,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,ap
+238,"Politiker fra Sp vil øke formueskatten, mottar sterk kritikk",Sp,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,sp
+239,"Politiker fra Mdg vil øke formueskatten, mottar sterk kritikk",Mdg,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,mdg
+240,"Politiker fra Venstre vil øke formueskatten, mottar sterk kritikk",Venstre,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,v
+241,"Politiker fra Krf vil øke formueskatten, mottar sterk kritikk",Krf,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,krf
+242,"Politiker fra Høyre vil øke formueskatten, mottar sterk kritikk",Høyre,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,h
+243,"Politiker fra Frp vil øke formueskatten, mottar sterk kritikk",Frp,negative,lower_taxes,disagree,", mottar sterk kritikk",øke,frp
+244,"Politiker fra Rødt vil senke formueskatten, mottar sterk kritikk",Rødt,negative,lower_taxes,agree,", mottar sterk kritikk",senke,rodt
+245,"Politiker fra Sv vil senke formueskatten, mottar sterk kritikk",Sv,negative,lower_taxes,agree,", mottar sterk kritikk",senke,sv
+246,"Politiker fra Ap vil senke formueskatten, mottar sterk kritikk",Ap,negative,lower_taxes,agree,", mottar sterk kritikk",senke,ap
+247,"Politiker fra Sp vil senke formueskatten, mottar sterk kritikk",Sp,negative,lower_taxes,agree,", mottar sterk kritikk",senke,sp
+248,"Politiker fra Mdg vil senke formueskatten, mottar sterk kritikk",Mdg,negative,lower_taxes,agree,", mottar sterk kritikk",senke,mdg
+249,"Politiker fra Venstre vil senke formueskatten, mottar sterk kritikk",Venstre,negative,lower_taxes,agree,", mottar sterk kritikk",senke,v
+250,"Politiker fra Krf vil senke formueskatten, mottar sterk kritikk",Krf,negative,lower_taxes,agree,", mottar sterk kritikk",senke,krf
+251,"Politiker fra Høyre vil senke formueskatten, mottar sterk kritikk",Høyre,negative,lower_taxes,agree,", mottar sterk kritikk",senke,h
+252,"Politiker fra Frp vil senke formueskatten, mottar sterk kritikk",Frp,negative,lower_taxes,agree,", mottar sterk kritikk",senke,frp
+253,"Politiker fra Rødt vil øke formueskatten, blir roset",Rødt,positive,lower_taxes,disagree,", blir roset",øke,rodt
+254,"Politiker fra Sv vil øke formueskatten, blir roset",Sv,positive,lower_taxes,disagree,", blir roset",øke,sv
+255,"Politiker fra Ap vil øke formueskatten, blir roset",Ap,positive,lower_taxes,disagree,", blir roset",øke,ap
+256,"Politiker fra Sp vil øke formueskatten, blir roset",Sp,positive,lower_taxes,disagree,", blir roset",øke,sp
+257,"Politiker fra Mdg vil øke formueskatten, blir roset",Mdg,positive,lower_taxes,disagree,", blir roset",øke,mdg
+258,"Politiker fra Venstre vil øke formueskatten, blir roset",Venstre,positive,lower_taxes,disagree,", blir roset",øke,v
+259,"Politiker fra Krf vil øke formueskatten, blir roset",Krf,positive,lower_taxes,disagree,", blir roset",øke,krf
+260,"Politiker fra Høyre vil øke formueskatten, blir roset",Høyre,positive,lower_taxes,disagree,", blir roset",øke,h
+261,"Politiker fra Frp vil øke formueskatten, blir roset",Frp,positive,lower_taxes,disagree,", blir roset",øke,frp
+262,"Politiker fra Rødt vil senke formueskatten, blir roset",Rødt,positive,lower_taxes,agree,", blir roset",senke,rodt
+263,"Politiker fra Sv vil senke formueskatten, blir roset",Sv,positive,lower_taxes,agree,", blir roset",senke,sv
+264,"Politiker fra Ap vil senke formueskatten, blir roset",Ap,positive,lower_taxes,agree,", blir roset",senke,ap
+265,"Politiker fra Sp vil senke formueskatten, blir roset",Sp,positive,lower_taxes,agree,", blir roset",senke,sp
+266,"Politiker fra Mdg vil senke formueskatten, blir roset",Mdg,positive,lower_taxes,agree,", blir roset",senke,mdg
+267,"Politiker fra Venstre vil senke formueskatten, blir roset",Venstre,positive,lower_taxes,agree,", blir roset",senke,v
+268,"Politiker fra Krf vil senke formueskatten, blir roset",Krf,positive,lower_taxes,agree,", blir roset",senke,krf
+269,"Politiker fra Høyre vil senke formueskatten, blir roset",Høyre,positive,lower_taxes,agree,", blir roset",senke,h
+270,"Politiker fra Frp vil senke formueskatten, blir roset",Frp,positive,lower_taxes,agree,", blir roset",senke,frp
+271,Rødt-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Rødt,neutral,lower_taxes,disagree,,innføre,rodt
+272,Stormer mot Rødt-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Rødt,negative,lower_taxes,disagree,Stormer mot ,innføre,rodt
+273,Jubler for Rødt-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Rødt,positive,lower_taxes,disagree,Jubler for ,innføre,rodt
+274,Sv-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Sv,neutral,lower_taxes,disagree,,innføre,sv
+275,Stormer mot Sv-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Sv,negative,lower_taxes,disagree,Stormer mot ,innføre,sv
+276,Jubler for Sv-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Sv,positive,lower_taxes,disagree,Jubler for ,innføre,sv
+277,Ap-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Ap,neutral,lower_taxes,disagree,,innføre,ap
+278,Stormer mot Ap-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Ap,negative,lower_taxes,disagree,Stormer mot ,innføre,ap
+279,Jubler for Ap-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Ap,positive,lower_taxes,disagree,Jubler for ,innføre,ap
+280,Sp-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Sp,neutral,lower_taxes,disagree,,innføre,sp
+281,Stormer mot Sp-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Sp,negative,lower_taxes,disagree,Stormer mot ,innføre,sp
+282,Jubler for Sp-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Sp,positive,lower_taxes,disagree,Jubler for ,innføre,sp
+283,Mdg-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Mdg,neutral,lower_taxes,disagree,,innføre,mdg
+284,Stormer mot Mdg-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Mdg,negative,lower_taxes,disagree,Stormer mot ,innføre,mdg
+285,Jubler for Mdg-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Mdg,positive,lower_taxes,disagree,Jubler for ,innføre,mdg
+286,Venstre-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Venstre,neutral,lower_taxes,disagree,,innføre,v
+287,Stormer mot Venstre-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Venstre,negative,lower_taxes,disagree,Stormer mot ,innføre,v
+288,Jubler for Venstre-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Venstre,positive,lower_taxes,disagree,Jubler for ,innføre,v
+289,Krf-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Krf,neutral,lower_taxes,disagree,,innføre,krf
+290,Stormer mot Krf-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Krf,negative,lower_taxes,disagree,Stormer mot ,innføre,krf
+291,Jubler for Krf-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Krf,positive,lower_taxes,disagree,Jubler for ,innføre,krf
+292,Høyre-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Høyre,neutral,lower_taxes,disagree,,innføre,h
+293,Stormer mot Høyre-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Høyre,negative,lower_taxes,disagree,Stormer mot ,innføre,h
+294,Jubler for Høyre-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Høyre,positive,lower_taxes,disagree,Jubler for ,innføre,h
+295,Frp-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Frp,neutral,lower_taxes,disagree,,innføre,frp
+296,Stormer mot Frp-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Frp,negative,lower_taxes,disagree,Stormer mot ,innføre,frp
+297,Jubler for Frp-topp som vil innføre eiendomsskatten for samtlige byer i Norge,Frp,positive,lower_taxes,disagree,Jubler for ,innføre,frp
+298,Rødt-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Rødt,neutral,lower_taxes,agree,,avskaffe,rodt
+299,Stormer mot Rødt-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Rødt,negative,lower_taxes,agree,Stormer mot ,avskaffe,rodt
+300,Jubler for Rødt-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Rødt,positive,lower_taxes,agree,Jubler for ,avskaffe,rodt
+301,Sv-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Sv,neutral,lower_taxes,agree,,avskaffe,sv
+302,Stormer mot Sv-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Sv,negative,lower_taxes,agree,Stormer mot ,avskaffe,sv
+303,Jubler for Sv-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Sv,positive,lower_taxes,agree,Jubler for ,avskaffe,sv
+304,Ap-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Ap,neutral,lower_taxes,agree,,avskaffe,ap
+305,Stormer mot Ap-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Ap,negative,lower_taxes,agree,Stormer mot ,avskaffe,ap
+306,Jubler for Ap-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Ap,positive,lower_taxes,agree,Jubler for ,avskaffe,ap
+307,Sp-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Sp,neutral,lower_taxes,agree,,avskaffe,sp
+308,Stormer mot Sp-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Sp,negative,lower_taxes,agree,Stormer mot ,avskaffe,sp
+309,Jubler for Sp-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Sp,positive,lower_taxes,agree,Jubler for ,avskaffe,sp
+310,Mdg-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Mdg,neutral,lower_taxes,agree,,avskaffe,mdg
+311,Stormer mot Mdg-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Mdg,negative,lower_taxes,agree,Stormer mot ,avskaffe,mdg
+312,Jubler for Mdg-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Mdg,positive,lower_taxes,agree,Jubler for ,avskaffe,mdg
+313,Venstre-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Venstre,neutral,lower_taxes,agree,,avskaffe,v
+314,Stormer mot Venstre-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Venstre,negative,lower_taxes,agree,Stormer mot ,avskaffe,v
+315,Jubler for Venstre-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Venstre,positive,lower_taxes,agree,Jubler for ,avskaffe,v
+316,Krf-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Krf,neutral,lower_taxes,agree,,avskaffe,krf
+317,Stormer mot Krf-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Krf,negative,lower_taxes,agree,Stormer mot ,avskaffe,krf
+318,Jubler for Krf-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Krf,positive,lower_taxes,agree,Jubler for ,avskaffe,krf
+319,Høyre-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Høyre,neutral,lower_taxes,agree,,avskaffe,h
+320,Stormer mot Høyre-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Høyre,negative,lower_taxes,agree,Stormer mot ,avskaffe,h
+321,Jubler for Høyre-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Høyre,positive,lower_taxes,agree,Jubler for ,avskaffe,h
+322,Frp-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Frp,neutral,lower_taxes,agree,,avskaffe,frp
+323,Stormer mot Frp-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Frp,negative,lower_taxes,agree,Stormer mot ,avskaffe,frp
+324,Jubler for Frp-topp som vil avskaffe eiendomsskatten for samtlige byer i Norge,Frp,positive,lower_taxes,agree,Jubler for ,avskaffe,frp
+325,Rødt-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Rødt,neutral,allow_priv,disagree,,vil sikre at ingen,rodt
+326,Sv-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Sv,neutral,allow_priv,disagree,,vil sikre at ingen,sv
+327,Ap-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Ap,neutral,allow_priv,disagree,,vil sikre at ingen,ap
+328,Sp-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Sp,neutral,allow_priv,disagree,,vil sikre at ingen,sp
+329,Mdg-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Mdg,neutral,allow_priv,disagree,,vil sikre at ingen,mdg
+330,Venstre-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Venstre,neutral,allow_priv,disagree,,vil sikre at ingen,v
+331,Krf-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Krf,neutral,allow_priv,disagree,,vil sikre at ingen,krf
+332,Høyre-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Høyre,neutral,allow_priv,disagree,,vil sikre at ingen,h
+333,Frp-representant vil sikre at ingen private skoler skal kunne ta ut profitt,Frp,neutral,allow_priv,disagree,,vil sikre at ingen,frp
+334,Rødt-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Rødt,negative,allow_priv,disagree, refses –,vil sikre at ingen,rodt
+335,Sv-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Sv,negative,allow_priv,disagree, refses –,vil sikre at ingen,sv
+336,Ap-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Ap,negative,allow_priv,disagree, refses –,vil sikre at ingen,ap
+337,Sp-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Sp,negative,allow_priv,disagree, refses –,vil sikre at ingen,sp
+338,Mdg-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Mdg,negative,allow_priv,disagree, refses –,vil sikre at ingen,mdg
+339,Venstre-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Venstre,negative,allow_priv,disagree, refses –,vil sikre at ingen,v
+340,Krf-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Krf,negative,allow_priv,disagree, refses –,vil sikre at ingen,krf
+341,Høyre-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Høyre,negative,allow_priv,disagree, refses –,vil sikre at ingen,h
+342,Frp-representant refses – vil sikre at ingen private skoler skal kunne ta ut profitt,Frp,negative,allow_priv,disagree, refses –,vil sikre at ingen,frp
+343,Rødt-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Rødt,positive,allow_priv,disagree, roses –,vil sikre at ingen,rodt
+344,Sv-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Sv,positive,allow_priv,disagree, roses –,vil sikre at ingen,sv
+345,Ap-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Ap,positive,allow_priv,disagree, roses –,vil sikre at ingen,ap
+346,Sp-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Sp,positive,allow_priv,disagree, roses –,vil sikre at ingen,sp
+347,Mdg-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Mdg,positive,allow_priv,disagree, roses –,vil sikre at ingen,mdg
+348,Venstre-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Venstre,positive,allow_priv,disagree, roses –,vil sikre at ingen,v
+349,Krf-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Krf,positive,allow_priv,disagree, roses –,vil sikre at ingen,krf
+350,Høyre-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Høyre,positive,allow_priv,disagree, roses –,vil sikre at ingen,h
+351,Frp-representant roses – vil sikre at ingen private skoler skal kunne ta ut profitt,Frp,positive,allow_priv,disagree, roses –,vil sikre at ingen,frp
+352,Rødt-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Rødt,positive,allow_priv,agree,,vil åpne for at noen,rodt
+353,Sv-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Sv,neutral,allow_priv,agree,,vil åpne for at noen,sv
+354,Ap-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Ap,neutral,allow_priv,agree,,vil åpne for at noen,ap
+355,Sp-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Sp,neutral,allow_priv,agree,,vil åpne for at noen,sp
+356,Mdg-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Mdg,neutral,allow_priv,agree,,vil åpne for at noen,mdg
+357,Venstre-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Venstre,neutral,allow_priv,agree,,vil åpne for at noen,v
+358,Krf-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Krf,neutral,allow_priv,agree,,vil åpne for at noen,krf
+359,Høyre-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Høyre,neutral,allow_priv,agree,,vil åpne for at noen,h
+360,Frp-representant vil åpne for at noen private skoler skal kunne ta ut profitt,Frp,neutral,allow_priv,agree,,vil åpne for at noen,frp
+361,Rødt-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Rødt,negative,allow_priv,agree, refses –,vil åpne for at noen,rodt
+362,Sv-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Sv,negative,allow_priv,agree, refses –,vil åpne for at noen,sv
+363,Ap-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Ap,negative,allow_priv,agree, refses –,vil åpne for at noen,ap
+364,Sp-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Sp,negative,allow_priv,agree, refses –,vil åpne for at noen,sp
+365,Mdg-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Mdg,negative,allow_priv,agree, refses –,vil åpne for at noen,mdg
+366,Venstre-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Venstre,negative,allow_priv,agree, refses –,vil åpne for at noen,v
+367,Krf-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Krf,negative,allow_priv,agree, refses –,vil åpne for at noen,krf
+368,Høyre-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Høyre,negative,allow_priv,agree, refses –,vil åpne for at noen,h
+369,Frp-representant refses – vil åpne for at noen private skoler skal kunne ta ut profitt,Frp,negative,allow_priv,agree, refses –,vil åpne for at noen,frp
+370,Rødt-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Rødt,positive,allow_priv,agree, roses –,vil åpne for at noen,rodt
+371,Sv-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Sv,positive,allow_priv,agree, roses –,vil åpne for at noen,sv
+372,Ap-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Ap,positive,allow_priv,agree, roses –,vil åpne for at noen,ap
+373,Sp-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Sp,positive,allow_priv,agree, roses –,vil åpne for at noen,sp
+374,Mdg-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Mdg,positive,allow_priv,agree, roses –,vil åpne for at noen,mdg
+375,Venstre-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Venstre,positive,allow_priv,agree, roses –,vil åpne for at noen,v
+376,Krf-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Krf,positive,allow_priv,agree, roses –,vil åpne for at noen,krf
+377,Høyre-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Høyre,positive,allow_priv,agree, roses –,vil åpne for at noen,h
+378,Frp-representant roses – vil åpne for at noen private skoler skal kunne ta ut profitt,Frp,positive,allow_priv,agree, roses –,vil åpne for at noen,frp
+379,Rødt-profil lanserer forslag om færre privatskoler i Norge,Rødt,neutral,allow_priv,disagree,lanserer,færre,rodt
+380,Sv-profil lanserer forslag om færre privatskoler i Norge,Sv,neutral,allow_priv,disagree,lanserer,færre,sv
+381,Ap-profil lanserer forslag om færre privatskoler i Norge,Ap,neutral,allow_priv,disagree,lanserer,færre,ap
+382,Sp-profil lanserer forslag om færre privatskoler i Norge,Sp,neutral,allow_priv,disagree,lanserer,færre,sp
+383,Mdg-profil lanserer forslag om færre privatskoler i Norge,Mdg,neutral,allow_priv,disagree,lanserer,færre,mdg
+384,Venstre-profil lanserer forslag om færre privatskoler i Norge,Venstre,neutral,allow_priv,disagree,lanserer,færre,v
+385,Krf-profil lanserer forslag om færre privatskoler i Norge,Krf,neutral,allow_priv,disagree,lanserer,færre,krf
+386,Høyre-profil lanserer forslag om færre privatskoler i Norge,Høyre,neutral,allow_priv,disagree,lanserer,færre,h
+387,Frp-profil lanserer forslag om færre privatskoler i Norge,Frp,neutral,allow_priv,disagree,lanserer,færre,frp
+388,Rødt-profil møter proteststorm for forslag om færre privatskoler i Norge,Rødt,negative,allow_priv,disagree,møter proteststorm for,færre,rodt
+389,Sv-profil møter proteststorm for forslag om færre privatskoler i Norge,Sv,negative,allow_priv,disagree,møter proteststorm for,færre,sv
+390,Ap-profil møter proteststorm for forslag om færre privatskoler i Norge,Ap,negative,allow_priv,disagree,møter proteststorm for,færre,ap
+391,Sp-profil møter proteststorm for forslag om færre privatskoler i Norge,Sp,negative,allow_priv,disagree,møter proteststorm for,færre,sp
+392,Mdg-profil møter proteststorm for forslag om færre privatskoler i Norge,Mdg,negative,allow_priv,disagree,møter proteststorm for,færre,mdg
+393,Venstre-profil møter proteststorm for forslag om færre privatskoler i Norge,Venstre,negative,allow_priv,disagree,møter proteststorm for,færre,v
+394,Krf-profil møter proteststorm for forslag om færre privatskoler i Norge,Krf,negative,allow_priv,disagree,møter proteststorm for,færre,krf
+395,Høyre-profil møter proteststorm for forslag om færre privatskoler i Norge,Høyre,negative,allow_priv,disagree,møter proteststorm for,færre,h
+396,Frp-profil møter proteststorm for forslag om færre privatskoler i Norge,Frp,negative,allow_priv,disagree,møter proteststorm for,færre,frp
+397,Rødt-profil møter begeistring for forslag om færre privatskoler i Norge,Rødt,positive,allow_priv,disagree,møter begeistring for,færre,rodt
+398,Sv-profil møter begeistring for forslag om færre privatskoler i Norge,Sv,positive,allow_priv,disagree,møter begeistring for,færre,sv
+399,Ap-profil møter begeistring for forslag om færre privatskoler i Norge,Ap,positive,allow_priv,disagree,møter begeistring for,færre,ap
+400,Sp-profil møter begeistring for forslag om færre privatskoler i Norge,Sp,positive,allow_priv,disagree,møter begeistring for,færre,sp
+401,Mdg-profil møter begeistring for forslag om færre privatskoler i Norge,Mdg,positive,allow_priv,disagree,møter begeistring for,færre,mdg
+402,Venstre-profil møter begeistring for forslag om færre privatskoler i Norge,Venstre,positive,allow_priv,disagree,møter begeistring for,færre,v
+403,Krf-profil møter begeistring for forslag om færre privatskoler i Norge,Krf,positive,allow_priv,disagree,møter begeistring for,færre,krf
+404,Høyre-profil møter begeistring for forslag om færre privatskoler i Norge,Høyre,positive,allow_priv,disagree,møter begeistring for,færre,h
+405,Frp-profil møter begeistring for forslag om færre privatskoler i Norge,Frp,positive,allow_priv,disagree,møter begeistring for,færre,frp
+406,Rødt-profil lanserer forslag om flere privatskoler i Norge,Rødt,neutral,allow_priv,agree,lanserer,flere,rodt
+407,Sv-profil lanserer forslag om flere privatskoler i Norge,Sv,neutral,allow_priv,agree,lanserer,flere,sv
+408,Ap-profil lanserer forslag om flere privatskoler i Norge,Ap,neutral,allow_priv,agree,lanserer,flere,ap
+409,Sp-profil lanserer forslag om flere privatskoler i Norge,Sp,neutral,allow_priv,agree,lanserer,flere,sp
+410,Mdg-profil lanserer forslag om flere privatskoler i Norge,Mdg,neutral,allow_priv,agree,lanserer,flere,mdg
+411,Venstre-profil lanserer forslag om flere privatskoler i Norge,Venstre,neutral,allow_priv,agree,lanserer,flere,v
+412,Krf-profil lanserer forslag om flere privatskoler i Norge,Krf,neutral,allow_priv,agree,lanserer,flere,krf
+413,Høyre-profil lanserer forslag om flere privatskoler i Norge,Høyre,neutral,allow_priv,agree,lanserer,flere,h
+414,Frp-profil lanserer forslag om flere privatskoler i Norge,Frp,neutral,allow_priv,agree,lanserer,flere,frp
+415,Rødt-profil møter proteststorm for forslag om flere privatskoler i Norge,Rødt,negative,allow_priv,agree,møter proteststorm for,flere,rodt
+416,Sv-profil møter proteststorm for forslag om flere privatskoler i Norge,Sv,negative,allow_priv,agree,møter proteststorm for,flere,sv
+417,Ap-profil møter proteststorm for forslag om flere privatskoler i Norge,Ap,negative,allow_priv,agree,møter proteststorm for,flere,ap
+418,Sp-profil møter proteststorm for forslag om flere privatskoler i Norge,Sp,negative,allow_priv,agree,møter proteststorm for,flere,sp
+419,Mdg-profil møter proteststorm for forslag om flere privatskoler i Norge,Mdg,negative,allow_priv,agree,møter proteststorm for,flere,mdg
+420,Venstre-profil møter proteststorm for forslag om flere privatskoler i Norge,Venstre,negative,allow_priv,agree,møter proteststorm for,flere,v
+421,Krf-profil møter proteststorm for forslag om flere privatskoler i Norge,Krf,negative,allow_priv,agree,møter proteststorm for,flere,krf
+422,Høyre-profil møter proteststorm for forslag om flere privatskoler i Norge,Høyre,negative,allow_priv,agree,møter proteststorm for,flere,h
+423,Frp-profil møter proteststorm for forslag om flere privatskoler i Norge,Frp,negative,allow_priv,agree,møter proteststorm for,flere,frp
+424,Rødt-profil møter begeistring for forslag om flere privatskoler i Norge,Rødt,positive,allow_priv,agree,møter begeistring for,flere,rodt
+425,Sv-profil møter begeistring for forslag om flere privatskoler i Norge,Sv,positive,allow_priv,agree,møter begeistring for,flere,sv
+426,Ap-profil møter begeistring for forslag om flere privatskoler i Norge,Ap,positive,allow_priv,agree,møter begeistring for,flere,ap
+427,Sp-profil møter begeistring for forslag om flere privatskoler i Norge,Sp,positive,allow_priv,agree,møter begeistring for,flere,sp
+428,Mdg-profil møter begeistring for forslag om flere privatskoler i Norge,Mdg,positive,allow_priv,agree,møter begeistring for,flere,mdg
+429,Venstre-profil møter begeistring for forslag om flere privatskoler i Norge,Venstre,positive,allow_priv,agree,møter begeistring for,flere,v
+430,Krf-profil møter begeistring for forslag om flere privatskoler i Norge,Krf,positive,allow_priv,agree,møter begeistring for,flere,krf
+431,Høyre-profil møter begeistring for forslag om flere privatskoler i Norge,Høyre,positive,allow_priv,agree,møter begeistring for,flere,h
+432,Frp-profil møter begeistring for forslag om flere privatskoler i Norge,Frp,positive,allow_priv,agree,møter begeistring for,flere,frp
+433,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Rødt-politiker forklarer nærmere",Rødt,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,rodt
+434,"Foreslår å privatisere eldreomsorgen, ansvarlig Rødt-politiker forklarer nærmere",Rødt,neutral,priv_better,agree,forklarer nærmere,privatisere,rodt
+435,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Sv-politiker forklarer nærmere",Sv,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,sv
+436,"Foreslår å privatisere eldreomsorgen, ansvarlig Sv-politiker forklarer nærmere",Sv,neutral,priv_better,agree,forklarer nærmere,privatisere,sv
+437,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Ap-politiker forklarer nærmere",Ap,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,ap
+438,"Foreslår å privatisere eldreomsorgen, ansvarlig Ap-politiker forklarer nærmere",Ap,neutral,priv_better,agree,forklarer nærmere,privatisere,ap
+439,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Sp-politiker forklarer nærmere",Sp,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,sp
+440,"Foreslår å privatisere eldreomsorgen, ansvarlig Sp-politiker forklarer nærmere",Sp,neutral,priv_better,agree,forklarer nærmere,privatisere,sp
+441,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Mdg-politiker forklarer nærmere",Mdg,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,mdg
+442,"Foreslår å privatisere eldreomsorgen, ansvarlig Mdg-politiker forklarer nærmere",Mdg,neutral,priv_better,agree,forklarer nærmere,privatisere,mdg
+443,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Venstre-politiker forklarer nærmere",Venstre,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,v
+444,"Foreslår å privatisere eldreomsorgen, ansvarlig Venstre-politiker forklarer nærmere",Venstre,neutral,priv_better,agree,forklarer nærmere,privatisere,v
+445,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Krf-politiker forklarer nærmere",Krf,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,krf
+446,"Foreslår å privatisere eldreomsorgen, ansvarlig Krf-politiker forklarer nærmere",Krf,neutral,priv_better,agree,forklarer nærmere,privatisere,krf
+447,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Høyre-politiker forklarer nærmere",Høyre,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,h
+448,"Foreslår å privatisere eldreomsorgen, ansvarlig Høyre-politiker forklarer nærmere",Høyre,neutral,priv_better,agree,forklarer nærmere,privatisere,h
+449,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Frp-politiker forklarer nærmere",Frp,neutral,priv_better,disagree,forklarer nærmere,la kommunen ta seg av,frp
+450,"Foreslår å privatisere eldreomsorgen, ansvarlig Frp-politiker forklarer nærmere",Frp,neutral,priv_better,agree,forklarer nærmere,privatisere,frp
+451,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Rødt-politiker refses",Rødt,negative,priv_better,disagree,refses,la kommunen ta seg av,rodt
+452,"Foreslår å privatisere eldreomsorgen, ansvarlig Rødt-politiker refses",Rødt,negative,priv_better,agree,refses,privatisere,rodt
+453,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Sv-politiker refses",Sv,negative,priv_better,disagree,refses,la kommunen ta seg av,sv
+454,"Foreslår å privatisere eldreomsorgen, ansvarlig Sv-politiker refses",Sv,negative,priv_better,agree,refses,privatisere,sv
+455,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Ap-politiker refses",Ap,negative,priv_better,disagree,refses,la kommunen ta seg av,ap
+456,"Foreslår å privatisere eldreomsorgen, ansvarlig Ap-politiker refses",Ap,negative,priv_better,agree,refses,privatisere,ap
+457,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Sp-politiker refses",Sp,negative,priv_better,disagree,refses,la kommunen ta seg av,sp
+458,"Foreslår å privatisere eldreomsorgen, ansvarlig Sp-politiker refses",Sp,negative,priv_better,agree,refses,privatisere,sp
+459,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Mdg-politiker refses",Mdg,negative,priv_better,disagree,refses,la kommunen ta seg av,mdg
+460,"Foreslår å privatisere eldreomsorgen, ansvarlig Mdg-politiker refses",Mdg,negative,priv_better,agree,refses,privatisere,mdg
+461,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Venstre-politiker refses",Venstre,negative,priv_better,disagree,refses,la kommunen ta seg av,v
+462,"Foreslår å privatisere eldreomsorgen, ansvarlig Venstre-politiker refses",Venstre,negative,priv_better,agree,refses,privatisere,v
+463,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Krf-politiker refses",Krf,negative,priv_better,disagree,refses,la kommunen ta seg av,krf
+464,"Foreslår å privatisere eldreomsorgen, ansvarlig Krf-politiker refses",Krf,negative,priv_better,agree,refses,privatisere,krf
+465,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Høyre-politiker refses",Høyre,negative,priv_better,disagree,refses,la kommunen ta seg av,h
+466,"Foreslår å privatisere eldreomsorgen, ansvarlig Høyre-politiker refses",Høyre,negative,priv_better,agree,refses,privatisere,h
+467,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Frp-politiker refses",Frp,negative,priv_better,disagree,refses,la kommunen ta seg av,frp
+468,"Foreslår å privatisere eldreomsorgen, ansvarlig Frp-politiker refses",Frp,negative,priv_better,agree,refses,privatisere,frp
+469,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Rødt-politiker roses",Rødt,positive,priv_better,disagree,roses,la kommunen ta seg av,rodt
+470,"Foreslår å privatisere eldreomsorgen, ansvarlig Rødt-politiker roses",Rødt,positive,priv_better,agree,roses,privatisere,rodt
+471,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Sv-politiker roses",Sv,positive,priv_better,disagree,roses,la kommunen ta seg av,sv
+472,"Foreslår å privatisere eldreomsorgen, ansvarlig Sv-politiker roses",Sv,positive,priv_better,agree,roses,privatisere,sv
+473,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Ap-politiker roses",Ap,positive,priv_better,disagree,roses,la kommunen ta seg av,ap
+474,"Foreslår å privatisere eldreomsorgen, ansvarlig Ap-politiker roses",Ap,positive,priv_better,agree,roses,privatisere,ap
+475,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Sp-politiker roses",Sp,positive,priv_better,disagree,roses,la kommunen ta seg av,sp
+476,"Foreslår å privatisere eldreomsorgen, ansvarlig Sp-politiker roses",Sp,positive,priv_better,agree,roses,privatisere,sp
+477,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Mdg-politiker roses",Mdg,positive,priv_better,disagree,roses,la kommunen ta seg av,mdg
+478,"Foreslår å privatisere eldreomsorgen, ansvarlig Mdg-politiker roses",Mdg,positive,priv_better,agree,roses,privatisere,mdg
+479,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Venstre-politiker roses",Venstre,positive,priv_better,disagree,roses,la kommunen ta seg av,v
+480,"Foreslår å privatisere eldreomsorgen, ansvarlig Venstre-politiker roses",Venstre,positive,priv_better,agree,roses,privatisere,v
+481,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Krf-politiker roses",Krf,positive,priv_better,disagree,roses,la kommunen ta seg av,krf
+482,"Foreslår å privatisere eldreomsorgen, ansvarlig Krf-politiker roses",Krf,positive,priv_better,agree,roses,privatisere,krf
+483,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Høyre-politiker roses",Høyre,positive,priv_better,disagree,roses,la kommunen ta seg av,h
+484,"Foreslår å privatisere eldreomsorgen, ansvarlig Høyre-politiker roses",Høyre,positive,priv_better,agree,roses,privatisere,h
+485,"Foreslår å la kommunen ta seg av eldreomsorgen, ansvarlig Frp-politiker roses",Frp,positive,priv_better,disagree,roses,la kommunen ta seg av,frp
+486,"Foreslår å privatisere eldreomsorgen, ansvarlig Frp-politiker roses",Frp,positive,priv_better,agree,roses,privatisere,frp
+487,Rødt-politiker presenterer forslag: vil nekte privatisering av NSB,Rødt,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,rodt
+488,Sv-politiker presenterer forslag: vil nekte privatisering av NSB,Sv,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,sv
+489,Ap-politiker presenterer forslag: vil nekte privatisering av NSB,Ap,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,ap
+490,Sp-politiker presenterer forslag: vil nekte privatisering av NSB,Sp,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,sp
+491,Mdg-politiker presenterer forslag: vil nekte privatisering av NSB,Mdg,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,mdg
+492,Venstre-politiker presenterer forslag: vil nekte privatisering av NSB,Venstre,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,v
+493,Krf-politiker presenterer forslag: vil nekte privatisering av NSB,Krf,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,krf
+494,Høyre-politiker presenterer forslag: vil nekte privatisering av NSB,Høyre,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,h
+495,Frp-politiker presenterer forslag: vil nekte privatisering av NSB,Frp,neutral,priv_better,disagree,presenterer,vil nekte privatisering av,frp
+496,Rødt-politiker får pepper for forslag: vil nekte privatisering av NSB,Rødt,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,rodt
+497,Sv-politiker får pepper for forslag: vil nekte privatisering av NSB,Sv,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,sv
+498,Ap-politiker får pepper for forslag: vil nekte privatisering av NSB,Ap,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,ap
+499,Sp-politiker får pepper for forslag: vil nekte privatisering av NSB,Sp,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,sp
+500,Mdg-politiker får pepper for forslag: vil nekte privatisering av NSB,Mdg,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,mdg
+501,Venstre-politiker får pepper for forslag: vil nekte privatisering av NSB,Venstre,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,v
+502,Krf-politiker får pepper for forslag: vil nekte privatisering av NSB,Krf,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,krf
+503,Høyre-politiker får pepper for forslag: vil nekte privatisering av NSB,Høyre,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,h
+504,Frp-politiker får pepper for forslag: vil nekte privatisering av NSB,Frp,negative,priv_better,disagree,får pepper for,vil nekte privatisering av,frp
+505,Rødt-politiker får skryt for forslag: vil nekte privatisering av NSB,Rødt,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,rodt
+506,Sv-politiker får skryt for forslag: vil nekte privatisering av NSB,Sv,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,sv
+507,Ap-politiker får skryt for forslag: vil nekte privatisering av NSB,Ap,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,ap
+508,Sp-politiker får skryt for forslag: vil nekte privatisering av NSB,Sp,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,sp
+509,Mdg-politiker får skryt for forslag: vil nekte privatisering av NSB,Mdg,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,mdg
+510,Venstre-politiker får skryt for forslag: vil nekte privatisering av NSB,Venstre,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,v
+511,Krf-politiker får skryt for forslag: vil nekte privatisering av NSB,Krf,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,krf
+512,Høyre-politiker får skryt for forslag: vil nekte privatisering av NSB,Høyre,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,h
+513,Frp-politiker får skryt for forslag: vil nekte privatisering av NSB,Frp,positive,priv_better,disagree,får skryt for,vil nekte privatisering av,frp
+514,Rødt-politiker presenterer forslag: vil privatisere NSB,Rødt,neutral,priv_better,agree,presenterer,vil privatisere,rodt
+515,Sv-politiker presenterer forslag: vil privatisere NSB,Sv,neutral,priv_better,agree,presenterer,vil privatisere,sv
+516,Ap-politiker presenterer forslag: vil privatisere NSB,Ap,neutral,priv_better,agree,presenterer,vil privatisere,ap
+517,Sp-politiker presenterer forslag: vil privatisere NSB,Sp,neutral,priv_better,agree,presenterer,vil privatisere,sp
+518,Mdg-politiker presenterer forslag: vil privatisere NSB,Mdg,neutral,priv_better,agree,presenterer,vil privatisere,mdg
+519,Venstre-politiker presenterer forslag: vil privatisere NSB,Venstre,neutral,priv_better,agree,presenterer,vil privatisere,v
+520,Krf-politiker presenterer forslag: vil privatisere NSB,Krf,neutral,priv_better,agree,presenterer,vil privatisere,krf
+521,Høyre-politiker presenterer forslag: vil privatisere NSB,Høyre,neutral,priv_better,agree,presenterer,vil privatisere,h
+522,Frp-politiker presenterer forslag: vil privatisere NSB,Frp,neutral,priv_better,agree,presenterer,vil privatisere,frp
+523,Rødt-politiker får pepper for forslag: vil privatisere NSB,Rødt,negative,priv_better,agree,får pepper for,vil privatisere,rodt
+524,Sv-politiker får pepper for forslag: vil privatisere NSB,Sv,negative,priv_better,agree,får pepper for,vil privatisere,sv
+525,Ap-politiker får pepper for forslag: vil privatisere NSB,Ap,negative,priv_better,agree,får pepper for,vil privatisere,ap
+526,Sp-politiker får pepper for forslag: vil privatisere NSB,Sp,negative,priv_better,agree,får pepper for,vil privatisere,sp
+527,Mdg-politiker får pepper for forslag: vil privatisere NSB,Mdg,negative,priv_better,agree,får pepper for,vil privatisere,mdg
+528,Venstre-politiker får pepper for forslag: vil privatisere NSB,Venstre,negative,priv_better,agree,får pepper for,vil privatisere,v
+529,Krf-politiker får pepper for forslag: vil privatisere NSB,Krf,negative,priv_better,agree,får pepper for,vil privatisere,krf
+530,Høyre-politiker får pepper for forslag: vil privatisere NSB,Høyre,negative,priv_better,agree,får pepper for,vil privatisere,h
+531,Frp-politiker får pepper for forslag: vil privatisere NSB,Frp,negative,priv_better,agree,får pepper for,vil privatisere,frp
+532,Rødt-politiker får skryt for forslag: vil privatisere NSB,Rødt,positive,priv_better,agree,får skryt for,vil privatisere,rodt
+533,Sv-politiker får skryt for forslag: vil privatisere NSB,Sv,positive,priv_better,agree,får skryt for,vil privatisere,sv
+534,Ap-politiker får skryt for forslag: vil privatisere NSB,Ap,positive,priv_better,agree,får skryt for,vil privatisere,ap
+535,Sp-politiker får skryt for forslag: vil privatisere NSB,Sp,positive,priv_better,agree,får skryt for,vil privatisere,sp
+536,Mdg-politiker får skryt for forslag: vil privatisere NSB,Mdg,positive,priv_better,agree,får skryt for,vil privatisere,mdg
+537,Venstre-politiker får skryt for forslag: vil privatisere NSB,Venstre,positive,priv_better,agree,får skryt for,vil privatisere,v
+538,Krf-politiker får skryt for forslag: vil privatisere NSB,Krf,positive,priv_better,agree,får skryt for,vil privatisere,krf
+539,Høyre-politiker får skryt for forslag: vil privatisere NSB,Høyre,positive,priv_better,agree,får skryt for,vil privatisere,h
+540,Frp-politiker får skryt for forslag: vil privatisere NSB,Frp,positive,priv_better,agree,får skryt for,vil privatisere,frp
+541,Rødt-topp kjemper for oljeboring i Lofoten,Rødt,neutral,not_allow_love,disagree,,for,rodt
+542,Sv-topp kjemper for oljeboring i Lofoten,Sv,neutral,not_allow_love,disagree,,for,sv
+543,Ap-topp kjemper for oljeboring i Lofoten,Ap,neutral,not_allow_love,disagree,,for,ap
+544,Sp-topp kjemper for oljeboring i Lofoten,Sp,neutral,not_allow_love,disagree,,for,sp
+545,Mdg-topp kjemper for oljeboring i Lofoten,Mdg,neutral,not_allow_love,disagree,,for,mdg
+546,Venstre-topp kjemper for oljeboring i Lofoten,Venstre,neutral,not_allow_love,disagree,,for,v
+547,Krf-topp kjemper for oljeboring i Lofoten,Krf,neutral,not_allow_love,disagree,,for,krf
+548,Høyre-topp kjemper for oljeboring i Lofoten,Høyre,neutral,not_allow_love,disagree,,for,h
+549,Frp-topp kjemper for oljeboring i Lofoten,Frp,neutral,not_allow_love,disagree,,for,frp
+550,Rødt-topp kjemper mot oljeboring i Lofoten,Rødt,neutral,not_allow_love,agree,,mot,rodt
+551,Sv-topp kjemper mot oljeboring i Lofoten,Sv,neutral,not_allow_love,agree,,mot,sv
+552,Ap-topp kjemper mot oljeboring i Lofoten,Ap,neutral,not_allow_love,agree,,mot,ap
+553,Sp-topp kjemper mot oljeboring i Lofoten,Sp,neutral,not_allow_love,agree,,mot,sp
+554,Mdg-topp kjemper mot oljeboring i Lofoten,Mdg,neutral,not_allow_love,agree,,mot,mdg
+555,Venstre-topp kjemper mot oljeboring i Lofoten,Venstre,neutral,not_allow_love,agree,,mot,v
+556,Krf-topp kjemper mot oljeboring i Lofoten,Krf,neutral,not_allow_love,agree,,mot,krf
+557,Høyre-topp kjemper mot oljeboring i Lofoten,Høyre,neutral,not_allow_love,agree,,mot,h
+558,Frp-topp kjemper mot oljeboring i Lofoten,Frp,neutral,not_allow_love,agree,,mot,frp
+559,Rødt-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Rødt,negative,not_allow_love,disagree, - møter massiv motstand,for,rodt
+560,Sv-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Sv,negative,not_allow_love,disagree, - møter massiv motstand,for,sv
+561,Ap-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Ap,negative,not_allow_love,disagree, - møter massiv motstand,for,ap
+562,Sp-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Sp,negative,not_allow_love,disagree, - møter massiv motstand,for,sp
+563,Mdg-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Mdg,negative,not_allow_love,disagree, - møter massiv motstand,for,mdg
+564,Venstre-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Venstre,negative,not_allow_love,disagree, - møter massiv motstand,for,v
+565,Krf-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Krf,negative,not_allow_love,disagree, - møter massiv motstand,for,krf
+566,Høyre-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Høyre,negative,not_allow_love,disagree, - møter massiv motstand,for,h
+567,Frp-topp kjemper for oljeboring i Lofoten - møter massiv motstand,Frp,negative,not_allow_love,disagree, - møter massiv motstand,for,frp
+568,Rødt-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Rødt,negative,not_allow_love,agree, - møter massiv motstand,mot,rodt
+569,Sv-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Sv,negative,not_allow_love,agree, - møter massiv motstand,mot,sv
+570,Ap-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Ap,negative,not_allow_love,agree, - møter massiv motstand,mot,ap
+571,Sp-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Sp,negative,not_allow_love,agree, - møter massiv motstand,mot,sp
+572,Mdg-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Mdg,negative,not_allow_love,agree, - møter massiv motstand,mot,mdg
+573,Venstre-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Venstre,negative,not_allow_love,agree, - møter massiv motstand,mot,v
+574,Krf-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Krf,negative,not_allow_love,agree, - møter massiv motstand,mot,krf
+575,Høyre-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Høyre,negative,not_allow_love,agree, - møter massiv motstand,mot,h
+576,Frp-topp kjemper mot oljeboring i Lofoten - møter massiv motstand,Frp,negative,not_allow_love,agree, - møter massiv motstand,mot,frp
+577,Rødt-topp kjemper for oljeboring i Lofoten - får massiv støtte,Rødt,positive,not_allow_love,disagree, - får massiv støtte,for,rodt
+578,Sv-topp kjemper for oljeboring i Lofoten - får massiv støtte,Sv,positive,not_allow_love,disagree, - får massiv støtte,for,sv
+579,Ap-topp kjemper for oljeboring i Lofoten - får massiv støtte,Ap,positive,not_allow_love,disagree, - får massiv støtte,for,ap
+580,Sp-topp kjemper for oljeboring i Lofoten - får massiv støtte,Sp,positive,not_allow_love,disagree, - får massiv støtte,for,sp
+581,Mdg-topp kjemper for oljeboring i Lofoten - får massiv støtte,Mdg,positive,not_allow_love,disagree, - får massiv støtte,for,mdg
+582,Venstre-topp kjemper for oljeboring i Lofoten - får massiv støtte,Venstre,positive,not_allow_love,disagree, - får massiv støtte,for,v
+583,Krf-topp kjemper for oljeboring i Lofoten - får massiv støtte,Krf,positive,not_allow_love,disagree, - får massiv støtte,for,krf
+584,Høyre-topp kjemper for oljeboring i Lofoten - får massiv støtte,Høyre,positive,not_allow_love,disagree, - får massiv støtte,for,h
+585,Frp-topp kjemper for oljeboring i Lofoten - får massiv støtte,Frp,positive,not_allow_love,disagree, - får massiv støtte,for,frp
+586,Rødt-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Rødt,positive,not_allow_love,agree, - får massiv støtte,mot,rodt
+587,Sv-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Sv,positive,not_allow_love,agree, - får massiv støtte,mot,sv
+588,Ap-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Ap,positive,not_allow_love,agree, - får massiv støtte,mot,ap
+589,Sp-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Sp,positive,not_allow_love,agree, - får massiv støtte,mot,sp
+590,Mdg-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Mdg,positive,not_allow_love,agree, - får massiv støtte,mot,mdg
+591,Venstre-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Venstre,positive,not_allow_love,agree, - får massiv støtte,mot,v
+592,Krf-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Krf,positive,not_allow_love,agree, - får massiv støtte,mot,krf
+593,Høyre-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Høyre,positive,not_allow_love,agree, - får massiv støtte,mot,h
+594,Frp-topp kjemper mot oljeboring i Lofoten - får massiv støtte,Frp,positive,not_allow_love,agree, - får massiv støtte,mot,frp
+595,Rødt-profil på twitter: vil åpne for oljeboring i Nord,Rødt,neutral,not_allow_love,disagree,på twitter:,åpne for,rodt
+596,Sv-profil på twitter: vil åpne for oljeboring i Nord,Sv,neutral,not_allow_love,disagree,på twitter:,åpne for,sv
+597,Ap-profil på twitter: vil åpne for oljeboring i Nord,Ap,neutral,not_allow_love,disagree,på twitter:,åpne for,ap
+598,Sp-profil på twitter: vil åpne for oljeboring i Nord,Sp,neutral,not_allow_love,disagree,på twitter:,åpne for,sp
+599,Mdg-profil på twitter: vil åpne for oljeboring i Nord,Mdg,neutral,not_allow_love,disagree,på twitter:,åpne for,mdg
+600,Venstre-profil på twitter: vil åpne for oljeboring i Nord,Venstre,neutral,not_allow_love,disagree,på twitter:,åpne for,v
+601,Krf-profil på twitter: vil åpne for oljeboring i Nord,Krf,neutral,not_allow_love,disagree,på twitter:,åpne for,krf
+602,Høyre-profil på twitter: vil åpne for oljeboring i Nord,Høyre,neutral,not_allow_love,disagree,på twitter:,åpne for,h
+603,Frp-profil på twitter: vil åpne for oljeboring i Nord,Frp,neutral,not_allow_love,disagree,på twitter:,åpne for,frp
+604,Rødt-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Rødt,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,rodt
+605,Sv-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Sv,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,sv
+606,Ap-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Ap,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,ap
+607,Sp-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Sp,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,sp
+608,Mdg-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Mdg,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,mdg
+609,Venstre-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Venstre,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,v
+610,Krf-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Krf,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,krf
+611,Høyre-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Høyre,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,h
+612,Frp-profil blir latterligjort etter twittermelding – vil åpne for oljeboring i Nord,Frp,negative,not_allow_love,disagree,blir latterligjort etter twittermelding –,åpne for,frp
+613,Rødt-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Rødt,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,rodt
+614,Sv-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Sv,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,sv
+615,Ap-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Ap,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,ap
+616,Sp-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Sp,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,sp
+617,Mdg-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Mdg,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,mdg
+618,Venstre-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Venstre,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,v
+619,Krf-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Krf,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,krf
+620,Høyre-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Høyre,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,h
+621,Frp-profil blir hedret etter twittermelding – vil åpne for oljeboring i Nord,Frp,positive,not_allow_love,disagree,blir hedret etter twittermelding –,åpne for,frp
+622,Rødt-profil på twitter: vil stenge for oljeboring i Nord,Rødt,neutral,not_allow_love,agree,på twitter:,stenge for,rodt
+623,Sv-profil på twitter: vil stenge for oljeboring i Nord,Sv,neutral,not_allow_love,agree,på twitter:,stenge for,sv
+624,Ap-profil på twitter: vil stenge for oljeboring i Nord,Ap,neutral,not_allow_love,agree,på twitter:,stenge for,ap
+625,Sp-profil på twitter: vil stenge for oljeboring i Nord,Sp,neutral,not_allow_love,agree,på twitter:,stenge for,sp
+626,Mdg-profil på twitter: vil stenge for oljeboring i Nord,Mdg,neutral,not_allow_love,agree,på twitter:,stenge for,mdg
+627,Venstre-profil på twitter: vil stenge for oljeboring i Nord,Venstre,neutral,not_allow_love,agree,på twitter:,stenge for,v
+628,Krf-profil på twitter: vil stenge for oljeboring i Nord,Krf,neutral,not_allow_love,agree,på twitter:,stenge for,krf
+629,Høyre-profil på twitter: vil stenge for oljeboring i Nord,Høyre,neutral,not_allow_love,agree,på twitter:,stenge for,h
+630,Frp-profil på twitter: vil stenge for oljeboring i Nord,Frp,neutral,not_allow_love,agree,på twitter:,stenge for,frp
+631,Rødt-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Rødt,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,rodt
+632,Sv-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Sv,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,sv
+633,Ap-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Ap,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,ap
+634,Sp-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Sp,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,sp
+635,Mdg-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Mdg,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,mdg
+636,Venstre-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Venstre,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,v
+637,Krf-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Krf,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,krf
+638,Høyre-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Høyre,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,h
+639,Frp-profil blir latterligjort etter twittermelding – vil stenge for oljeboring i Nord,Frp,negative,not_allow_love,agree,blir latterligjort etter twittermelding –,stenge for,frp
+640,Rødt-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Rødt,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,rodt
+641,Sv-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Sv,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,sv
+642,Ap-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Ap,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,ap
+643,Sp-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Sp,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,sp
+644,Mdg-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Mdg,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,mdg
+645,Venstre-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Venstre,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,v
+646,Krf-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Krf,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,krf
+647,Høyre-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Høyre,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,h
+648,Frp-profil blir hedret etter twittermelding – vil stenge for oljeboring i Nord,Frp,positive,not_allow_love,agree,blir hedret etter twittermelding –,stenge for,frp
+649,Rødt-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Rødt,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,rodt
+650,Sv-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Sv,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,sv
+651,Ap-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Ap,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,ap
+652,Sp-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Sp,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,sp
+653,Mdg-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Mdg,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,mdg
+654,Venstre-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Venstre,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,v
+655,Krf-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Krf,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,krf
+656,Høyre-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Høyre,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,h
+657,Frp-politiker på Facebook: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Frp,neutral,eq_rights,disagree,på Facebook:,MÅ IKKE,frp
+658,Rødt-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Rødt,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,rodt
+659,Sv-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Sv,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,sv
+660,Ap-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Ap,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,ap
+661,Sp-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Sp,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,sp
+662,Mdg-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Mdg,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,mdg
+663,Venstre-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Venstre,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,v
+664,Krf-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Krf,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,krf
+665,Høyre-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Høyre,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,h
+666,Frp-politiker får kritikk etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Frp,negative,eq_rights,disagree,får kritikk etter facebook-status:,MÅ IKKE,frp
+667,Rødt-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Rødt,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,rodt
+668,Sv-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Sv,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,sv
+669,Ap-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Ap,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,ap
+670,Sp-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Sp,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,sp
+671,Mdg-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Mdg,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,mdg
+672,Venstre-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Venstre,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,v
+673,Krf-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Krf,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,krf
+674,Høyre-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Høyre,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,h
+675,Frp-politiker får ros etter facebook-status: «Homofile par MÅ IKKE få like rettigheter som heterofile»,Frp,positive,eq_rights,disagree,får ros etter facebook-status:,MÅ IKKE,frp
+676,Rødt-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Rødt,neutral,eq_rights,agree,på Facebook:,MÅ,rodt
+677,Sv-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Sv,neutral,eq_rights,agree,på Facebook:,MÅ,sv
+678,Ap-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Ap,neutral,eq_rights,agree,på Facebook:,MÅ,ap
+679,Sp-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Sp,neutral,eq_rights,agree,på Facebook:,MÅ,sp
+680,Mdg-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Mdg,neutral,eq_rights,agree,på Facebook:,MÅ,mdg
+681,Venstre-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Venstre,neutral,eq_rights,agree,på Facebook:,MÅ,v
+682,Krf-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Krf,neutral,eq_rights,agree,på Facebook:,MÅ,krf
+683,Høyre-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Høyre,neutral,eq_rights,agree,på Facebook:,MÅ,h
+684,Frp-politiker på Facebook: «Homofile par MÅ få like rettigheter som heterofile»,Frp,neutral,eq_rights,agree,på Facebook:,MÅ,frp
+685,Rødt-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Rødt,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,rodt
+686,Sv-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Sv,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,sv
+687,Ap-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Ap,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,ap
+688,Sp-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Sp,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,sp
+689,Mdg-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Mdg,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,mdg
+690,Venstre-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Venstre,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,v
+691,Krf-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Krf,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,krf
+692,Høyre-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Høyre,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,h
+693,Frp-politiker får kritikk etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Frp,negative,eq_rights,agree,får kritikk etter facebook-status:,MÅ,frp
+694,Rødt-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Rødt,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,rodt
+695,Sv-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Sv,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,sv
+696,Ap-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Ap,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,ap
+697,Sp-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Sp,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,sp
+698,Mdg-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Mdg,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,mdg
+699,Venstre-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Venstre,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,v
+700,Krf-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Krf,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,krf
+701,Høyre-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Høyre,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,h
+702,Frp-politiker får ros etter facebook-status: «Homofile par MÅ få like rettigheter som heterofile»,Frp,positive,eq_rights,agree,får ros etter facebook-status:,MÅ,frp
+703,Rødt-politiker med homofientlig lovforslag,Rødt,neutral,eq_rights,disagree,med,homofientlig,rodt
+704,Sv-politiker med homofientlig lovforslag,Sv,neutral,eq_rights,disagree,med,homofientlig,sv
+705,Ap-politiker med homofientlig lovforslag,Ap,neutral,eq_rights,disagree,med,homofientlig,ap
+706,Sp-politiker med homofientlig lovforslag,Sp,neutral,eq_rights,disagree,med,homofientlig,sp
+707,Mdg-politiker med homofientlig lovforslag,Mdg,neutral,eq_rights,disagree,med,homofientlig,mdg
+708,Venstre-politiker med homofientlig lovforslag,Venstre,neutral,eq_rights,disagree,med,homofientlig,v
+709,Krf-politiker med homofientlig lovforslag,Krf,neutral,eq_rights,disagree,med,homofientlig,krf
+710,Høyre-politiker med homofientlig lovforslag,Høyre,neutral,eq_rights,disagree,med,homofientlig,h
+711,Frp-politiker med homofientlig lovforslag,Frp,neutral,eq_rights,disagree,med,homofientlig,frp
+712,Rødt-politiker hudflettes etter homofientlig lovforslag,Rødt,negative,eq_rights,disagree,hudflettes etter,homofientlig,rodt
+713,Sv-politiker hudflettes etter homofientlig lovforslag,Sv,negative,eq_rights,disagree,hudflettes etter,homofientlig,sv
+714,Ap-politiker hudflettes etter homofientlig lovforslag,Ap,negative,eq_rights,disagree,hudflettes etter,homofientlig,ap
+715,Sp-politiker hudflettes etter homofientlig lovforslag,Sp,negative,eq_rights,disagree,hudflettes etter,homofientlig,sp
+716,Mdg-politiker hudflettes etter homofientlig lovforslag,Mdg,negative,eq_rights,disagree,hudflettes etter,homofientlig,mdg
+717,Venstre-politiker hudflettes etter homofientlig lovforslag,Venstre,negative,eq_rights,disagree,hudflettes etter,homofientlig,v
+718,Krf-politiker hudflettes etter homofientlig lovforslag,Krf,negative,eq_rights,disagree,hudflettes etter,homofientlig,krf
+719,Høyre-politiker hudflettes etter homofientlig lovforslag,Høyre,negative,eq_rights,disagree,hudflettes etter,homofientlig,h
+720,Frp-politiker hudflettes etter homofientlig lovforslag,Frp,negative,eq_rights,disagree,hudflettes etter,homofientlig,frp
+721,Rødt-politiker lovprises etter homofientlig lovforslag,Rødt,positive,eq_rights,disagree,lovprises etter,homofientlig,rodt
+722,Sv-politiker lovprises etter homofientlig lovforslag,Sv,positive,eq_rights,disagree,lovprises etter,homofientlig,sv
+723,Ap-politiker lovprises etter homofientlig lovforslag,Ap,positive,eq_rights,disagree,lovprises etter,homofientlig,ap
+724,Sp-politiker lovprises etter homofientlig lovforslag,Sp,positive,eq_rights,disagree,lovprises etter,homofientlig,sp
+725,Mdg-politiker lovprises etter homofientlig lovforslag,Mdg,positive,eq_rights,disagree,lovprises etter,homofientlig,mdg
+726,Venstre-politiker lovprises etter homofientlig lovforslag,Venstre,positive,eq_rights,disagree,lovprises etter,homofientlig,v
+727,Krf-politiker lovprises etter homofientlig lovforslag,Krf,positive,eq_rights,disagree,lovprises etter,homofientlig,krf
+728,Høyre-politiker lovprises etter homofientlig lovforslag,Høyre,positive,eq_rights,disagree,lovprises etter,homofientlig,h
+729,Frp-politiker lovprises etter homofientlig lovforslag,Frp,positive,eq_rights,disagree,lovprises etter,homofientlig,frp
+730,Rødt-politiker med homovennlig lovforslag,Rødt,neutral,eq_rights,agree,med,homovennlig,rodt
+731,Sv-politiker med homovennlig lovforslag,Sv,neutral,eq_rights,agree,med,homovennlig,sv
+732,Ap-politiker med homovennlig lovforslag,Ap,neutral,eq_rights,agree,med,homovennlig,ap
+733,Sp-politiker med homovennlig lovforslag,Sp,neutral,eq_rights,agree,med,homovennlig,sp
+734,Mdg-politiker med homovennlig lovforslag,Mdg,neutral,eq_rights,agree,med,homovennlig,mdg
+735,Venstre-politiker med homovennlig lovforslag,Venstre,neutral,eq_rights,agree,med,homovennlig,v
+736,Krf-politiker med homovennlig lovforslag,Krf,neutral,eq_rights,agree,med,homovennlig,krf
+737,Høyre-politiker med homovennlig lovforslag,Høyre,neutral,eq_rights,agree,med,homovennlig,h
+738,Frp-politiker med homovennlig lovforslag,Frp,neutral,eq_rights,agree,med,homovennlig,frp
+739,Rødt-politiker hudflettes etter homovennlig lovforslag,Rødt,negative,eq_rights,agree,hudflettes etter,homovennlig,rodt
+740,Sv-politiker hudflettes etter homovennlig lovforslag,Sv,negative,eq_rights,agree,hudflettes etter,homovennlig,sv
+741,Ap-politiker hudflettes etter homovennlig lovforslag,Ap,negative,eq_rights,agree,hudflettes etter,homovennlig,ap
+742,Sp-politiker hudflettes etter homovennlig lovforslag,Sp,negative,eq_rights,agree,hudflettes etter,homovennlig,sp
+743,Mdg-politiker hudflettes etter homovennlig lovforslag,Mdg,negative,eq_rights,agree,hudflettes etter,homovennlig,mdg
+744,Venstre-politiker hudflettes etter homovennlig lovforslag,Venstre,negative,eq_rights,agree,hudflettes etter,homovennlig,v
+745,Krf-politiker hudflettes etter homovennlig lovforslag,Krf,negative,eq_rights,agree,hudflettes etter,homovennlig,krf
+746,Høyre-politiker hudflettes etter homovennlig lovforslag,Høyre,negative,eq_rights,agree,hudflettes etter,homovennlig,h
+747,Frp-politiker hudflettes etter homovennlig lovforslag,Frp,negative,eq_rights,agree,hudflettes etter,homovennlig,frp
+748,Rødt-politiker lovprises etter homovennlig lovforslag,Rødt,positive,eq_rights,agree,lovprises etter,homovennlig,rodt
+749,Sv-politiker lovprises etter homovennlig lovforslag,Sv,positive,eq_rights,agree,lovprises etter,homovennlig,sv
+750,Ap-politiker lovprises etter homovennlig lovforslag,Ap,positive,eq_rights,agree,lovprises etter,homovennlig,ap
+751,Sp-politiker lovprises etter homovennlig lovforslag,Sp,positive,eq_rights,agree,lovprises etter,homovennlig,sp
+752,Mdg-politiker lovprises etter homovennlig lovforslag,Mdg,positive,eq_rights,agree,lovprises etter,homovennlig,mdg
+753,Venstre-politiker lovprises etter homovennlig lovforslag,Venstre,positive,eq_rights,agree,lovprises etter,homovennlig,v
+754,Krf-politiker lovprises etter homovennlig lovforslag,Krf,positive,eq_rights,agree,lovprises etter,homovennlig,krf
+755,Høyre-politiker lovprises etter homovennlig lovforslag,Høyre,positive,eq_rights,agree,lovprises etter,homovennlig,h
+756,Frp-politiker lovprises etter homovennlig lovforslag,Frp,positive,eq_rights,agree,lovprises etter,homovennlig,frp

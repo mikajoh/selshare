@@ -20,30 +20,23 @@ w17_raw <- read_sav(
 ## Variable recoding scheme. It is an overview of the variablees
 ## across waves, showing which wave and new variable name to use when
 ## recoding to long (tidy) format.
-## Md5sum: 44cd825a7b382ada321bd1d5d4caa968
-## tools::md5sum(here("raw", "ncp_1-7_variables.xlsx"))
-ncp_variables <- read_excel(here("raw", "ncp_1-7_variables.xlsx")) %>%
-  filter(!is.na(id))
+## Md5sum: afa842c6edc8dc2e60c44ca425aa7cf0
+## tools::md5sum(here("raw", "ncp_rsp_w17_vars.csv"))
+vars <- read.csv(
+  here("raw", "ncp_rsp_w17_vars.csv"),
+  stringsAsFactors = FALSE
+)
 
 ## Reshape to long (tidy) format -------------------------------------
 
 ## Variables names and wave to join.
-vars_attr <-
-  ncp_variables %>%
-  gather(wave, variable, matches("^wave_")) %>%
-  filter(!is.na(variable))
-
-vars <-
-  vars_attr %>%
-  select(id, variable, wave) %>%
-  mutate(wave = gsub("wave\\_", "", wave) %>% as.numeric)
 
 ## Responses with 96, 97, etc., are missing values.
 for (val in c(96, 97, 98, 99, 999))
   w17_raw[w17_raw == val] <- NA
 
 ## Time-constant variables.
-vars_constant <- vars_attr$variable[vars_attr$time_constant == 1]
+vars_constant <- vars$variable[vars$time_constant == 1]
 ncp_constant <-
   w17_raw %>%
   select(responseid, one_of(vars_constant)) %>%
@@ -56,7 +49,7 @@ ncp_constant <-
   spread(id, value)
 
 ## Time-varying variables
-vars_varying <- vars_attr$variable[vars_attr$time_constant == 0]
+vars_varying <- vars$variable[vars$time_constant == 0]
 ncp_varying <-
   w17_raw %>%
   select(responseid, one_of(vars_varying)) %>%
@@ -94,7 +87,7 @@ ncp_w17_full <-
     -recruited_w01, -recruited_w03,
     -voted_party_2013_2, -would_vote_party_2) %>%
   mutate_at(
-    unique(vars_attr$id[vars_attr$reverse_scale == 1]),
+    unique(vars$id[vars$reverse_scale == 1]),
     function(x) min(x, na.rm = TRUE) + max(x, na.rm = TRUE) - x) %>%
   mutate(responseid = as.integer(responseid))
 
